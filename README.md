@@ -1,2 +1,2 @@
 # SQL-Faculdade
-Aulas de SQL da faculdade de Análise e Desenvolvimento de Sistemas
+Aqui estarão todas as aulas aprendendo todos os tipos de JOIN
